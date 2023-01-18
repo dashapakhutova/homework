@@ -1,0 +1,32 @@
+{
+    "chemical json": 0,
+    "name": "Methane",
+    "inchi": "1/CH4/c1-2/h1-2H3",
+    "formula": "C H 4",
+    "atoms": {
+      "elements": {
+        "number": [  1,   6,   1,   1,   1 ]
+      },
+      "coords": {
+        "position": [ 1.5, -0.9,  1,
+        1, -0.022441, -0.020839,
+       0,  -0.9,  0.020891,
+       1,  1.3, -0.020839,
+        1.5, -0.9, -0.51 ]
+      }
+    },
+    "bonds": {
+      "connections": {
+        "index": [ 1, 0,
+                   1, 2,
+                   1, 3,
+                   1, 4 ]
+      },
+      "order": [ 1, 1, 1, 1, 1, 1, 1 ]
+    },
+    "properties": {
+      "molecular mass": 30.0690,
+      "melting point": -172,
+      "boiling point": -88
+    }
+  }
